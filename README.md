@@ -12,19 +12,8 @@
 
 <p>Screenshots</p>
 
-
-      
-      <div >
-         <img src="4.png">
-      </div>
       <div>
-         <img src="6.png">
-      </div>
-      <div>
-         <img src="7.png">
-      </div>
-      <div>
-         <img src="9.png">
+      <img src="4.png">
       </div>
    
 
