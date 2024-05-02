@@ -15,16 +15,16 @@
 
       
       <div >
-         <img src="4.png" alt="scx" class="img">
+         <img src="4.png">
       </div>
       <div>
-         <img src="6.png" alt="scx" class="img">
+         <img src="6.png">
       </div>
       <div>
-         <img src="7.png" alt="scx" class="img">
+         <img src="7.png">
       </div>
       <div>
-         <img src="9.png" alt="scx" class="img">
+         <img src="9.png">
       </div>
    
 
